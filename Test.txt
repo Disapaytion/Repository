@@ -4,3 +4,6 @@ adasdasdasd
 asdsadasdas
 asdasdasdasd
 asdasdasdas
+"Updating with Bash…"
+"Update with Tortoise…"
+
